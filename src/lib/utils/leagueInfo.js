@@ -7,7 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Hello</p>
+  <p>Hello THE G.O.A.T. SUPERFLEX CONTENDERS
+</p>
   
 `;
 
