@@ -9,6 +9,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to THE G.O.A.T. SUPERFLEX CONTENDERS Website<p>
 <p> This website has been created to supplement the Sleeper App. This project started as a quest to find a way to see all of the rosters on one page. I hated having to go back and forth between rosters in search of a trade.<p>
+<p> Start next paragraph here <p>
+
+
+
+
+
   
 `;
 
