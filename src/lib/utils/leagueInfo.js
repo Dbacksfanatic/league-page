@@ -8,10 +8,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to THE G.O.A.T. SUPERFLEX CONTENDERS Website<p>
-<p> This website has been created to supplement the Sleeper App. This project started as a quest to find a way to see all of the rosters on one page. I hated having to go back and forth between rosters in search of a trade.<p>
-<p> Start next paragraph here <p>
+<p> This website has been created to supplement the Sleeper App. This project started as a quest to find a way to see all of the rosters on one page. I hated having to go back and forth between rosters in search of a trade. Sleeper doesn't have a function that allows you to see all of the rosters on one page. Well, now you can not only see the rosters, but some other things also.<p>
+<p> Now, I will be the first one to tell you that this website is not the most sophisticated thing in the world. But, I am pretty happy with it. It certainly reflects my coding skills and website creation abilities. All that being said, I am hoping to fix this up over time and add some info to it.   <p>
+<p> This site is synced to our Sleeper App. It will update the schedule when I put it in and will automatically update things like standings, trades, and some other things. So, use it if you like or don't if you don't think it will be helpful. In the end, I am just thrilled I can see the rosters on a single page. The one thing that is in here is a Constituion. It is not our official Constitution. I think it somehow came over from Sleeper. You can ignore that. <p>
 
-
+<p>Lastly, a big hanks to my son, Sam Howell, for helping with this. 
 
 
 
